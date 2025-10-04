@@ -1,0 +1,25 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+!src/main/**/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Spring Boot
+application.properties
+application.yml
